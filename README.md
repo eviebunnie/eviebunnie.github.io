@@ -1,0 +1,1 @@
+I created a simple page that shows my interests using CSS, HTML and Javascript.
